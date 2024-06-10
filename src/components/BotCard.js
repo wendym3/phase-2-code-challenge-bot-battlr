@@ -47,13 +47,13 @@ const BotCard = ({ bot, handleClick, handleDischarge }) => {
       {handleDischarge && (
         <div className="extra content">
           <button
-            className="ui button"
+            className="ui button red"
             onClick={(e) => {
               e.stopPropagation();
               handleDischarge(bot.id);
             }}
           >
-         X
+            X
           </button>
         </div>
       )}
