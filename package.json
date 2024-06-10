@@ -1,9 +1,11 @@
 {
+    "homepage": "http://wendym3.github.io/phase-2-code-challenge-bot-battlr",
     "name": "react-hooks-bot-battlr-code-challenge",
     "version": "0.1.0",
     "private": true,
     "dependencies": {
         "es-abstract": "^1.23.3",
+        "gh-pages": "^6.1.1",
         "react": "^17.0.1",
         "react-dom": "^17.0.1",
         "react-scripts": "^4.0.1",
@@ -15,6 +17,8 @@
     },
     "scripts": {
         "start": "PORT=8000 react-scripts start",
+        "predeploy":"npm run build",
+        "deploy":"gh-pages -d build",
         "server": "json-server --watch db.json -p 8002"
     },
     "eslintConfig": {
