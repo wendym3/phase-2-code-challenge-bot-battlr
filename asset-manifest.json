@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/phase-2-code-challenge-bot-battlr/static/css/main.00364533.chunk.css",
-    "main.js": "/phase-2-code-challenge-bot-battlr/static/js/main.f1312292.chunk.js",
-    "main.js.map": "/phase-2-code-challenge-bot-battlr/static/js/main.f1312292.chunk.js.map",
+    "main.css": "/phase-2-code-challenge-bot-battlr/static/css/main.0c42d050.chunk.css",
+    "main.js": "/phase-2-code-challenge-bot-battlr/static/js/main.80b8ba57.chunk.js",
+    "main.js.map": "/phase-2-code-challenge-bot-battlr/static/js/main.80b8ba57.chunk.js.map",
     "runtime-main.js": "/phase-2-code-challenge-bot-battlr/static/js/runtime-main.2627b6b7.js",
     "runtime-main.js.map": "/phase-2-code-challenge-bot-battlr/static/js/runtime-main.2627b6b7.js.map",
     "static/js/2.72cfec8e.chunk.js": "/phase-2-code-challenge-bot-battlr/static/js/2.72cfec8e.chunk.js",
     "static/js/2.72cfec8e.chunk.js.map": "/phase-2-code-challenge-bot-battlr/static/js/2.72cfec8e.chunk.js.map",
     "index.html": "/phase-2-code-challenge-bot-battlr/index.html",
-    "static/css/main.00364533.chunk.css.map": "/phase-2-code-challenge-bot-battlr/static/css/main.00364533.chunk.css.map",
+    "static/css/main.0c42d050.chunk.css.map": "/phase-2-code-challenge-bot-battlr/static/css/main.0c42d050.chunk.css.map",
     "static/js/2.72cfec8e.chunk.js.LICENSE.txt": "/phase-2-code-challenge-bot-battlr/static/js/2.72cfec8e.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.2627b6b7.js",
     "static/js/2.72cfec8e.chunk.js",
-    "static/css/main.00364533.chunk.css",
-    "static/js/main.f1312292.chunk.js"
+    "static/css/main.0c42d050.chunk.css",
+    "static/js/main.80b8ba57.chunk.js"
   ]
 }
