@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from "react";
-import BotCollection from "./BotCollection";
-import YourBotArmy from "./YourBotArmy";
+import BotCollection from "../components/BotCollection";
+import YourBotArmy from "../components/YourBotArmy";
 
 function App() {
   const [bots, setBots] = useState([]);
