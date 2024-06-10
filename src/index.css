@@ -22,3 +22,9 @@ body {
   .ui.grid {
     padding: 0px 20px;
   }
+  
+  .ui.button.red {
+    background-color: red;
+    color: white;
+  }
+  
