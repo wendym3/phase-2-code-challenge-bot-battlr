@@ -18,7 +18,7 @@ To start using Bot Battlr, follow these steps:
 2. Install dependencies by running `npm install`.
 3. Start the backend server with `npm run server` (port 8002).
 4. Start the React app with `npm start` (port 8000).
-5. Verify that the backend is running by visiting [http://localhost:8002/bots](http://localhost:8002/bots) in your browser.
+5. Verify that the backend is running by visiting [http://localhost:8001/bots](http://localhost:8001/bots) in your browser.
 
 ## Technologies Used
 
